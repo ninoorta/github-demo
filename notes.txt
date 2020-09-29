@@ -1,3 +1,0 @@
-touch fileName.(js)
-Add explains to commit
-Pull : get data from remote 
